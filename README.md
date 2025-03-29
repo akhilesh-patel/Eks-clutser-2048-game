@@ -6,7 +6,7 @@
 ## **Task 1: Create an EKS Cluster**  
 ### **Cluster Details:**  
 - **Cluster Name:** `<yourname>-eks-cluster-1`  
-- **K8s Version:** 1.25  
+- **K8s Version:** 1.31
 
 ### **Create IAM Roles:**  
 1. Create **eks-cluster-role** → Attach:  
